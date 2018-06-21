@@ -1,3 +1,9 @@
+title: i❤code.cf
+author: Andrew
+description: >
+  Hi and welcome on my amazing github frontpage!
+github_username:  acimanx
+show_excerpts: false
 theme: minima
 header_pages:
   - about.md
