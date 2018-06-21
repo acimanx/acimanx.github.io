@@ -1,8 +1,5 @@
 theme: minima
 header_pages:
   - about.md
----
-layout: default
-comments: true
-# other options
----
+disqus:
+    shortname: acimanx-github-io
