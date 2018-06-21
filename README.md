@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to front page of my github
 
-You can use the [editor on GitHub](https://github.com/acimanx/acimanx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a student in hackyourfutute code school.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is a list of my school projects: 
 
-### Markdown
+#[HTML & CSS](https://github.com/acimanx/hyf-html-css)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##[week0](https://acimanx.github.io/hyf-html-css/week0/)
+###[github source](https://github.com/acimanx/hyf-html-css/tree/master/week0)
 
-```markdown
-Syntax highlighted code block
+##[week1](https://acimanx.github.io/hyf-html-css/week1/)
+###[github source](https://github.com/acimanx/hyf-html-css/tree/master/week1)
 
-# Header 1
-## Header 2
-### Header 3
+##[week2](https://acimanx.github.io/hyf-html-css/week2/)
+###[github source](https://github.com/acimanx/hyf-html-css/tree/master/week2)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acimanx/acimanx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##[week3](https://acimanx.github.io/hyf-html-css/week3/)
+###[github source](https://github.com/acimanx/hyf-html-css/tree/master/week3)
