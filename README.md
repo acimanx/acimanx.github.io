@@ -4,7 +4,7 @@ I am a student in hackyourfutute code school.
 
 Here is a list of my school projects: 
 
-# [HTML & CSS](https://github.com/acimanx/hyf-html-css)
+# HTML & CSS
 
 ## [week0](https://acimanx.github.io/hyf-html-css/week0/)
 
