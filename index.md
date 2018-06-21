@@ -4,6 +4,7 @@ title: "My github frontpage"
 ---
 
 Hi, my name is Andrew and I am a student in hackyourfutute code school.
+
 Here is a list of my school projects: 
 
 ### HTML & CSS
