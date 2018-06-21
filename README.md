@@ -1,11 +1,3 @@
----
-layout: home
-title: "Hello"
-categories: junk
-author: "Bart Simpson"
-meta: "Springfield"
----
-
 ## Welcome to front page of my github
 
 I am a student in hackyourfutute code school.
