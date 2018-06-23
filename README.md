@@ -1,1 +1,1 @@
-## Welcome to front page of my github!
+## Welcome to my github front page!
