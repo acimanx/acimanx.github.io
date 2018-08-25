@@ -46,15 +46,15 @@ const cachedFetch = (url, options) => {
 
 
 ///////////////////////////////////////////////////////////////////16:30
-const user = "acimanx"
-const token = "9fb45c2ce4a574bbc98b8c81310bdd55f3b82e63"
+const user = ""
+const token = ""
 const creds = `${user}:${token}`
 const auth = btoa(creds)
 ////////////////////////////////////////////////////////////////////////
 const options = {
   headers: {
     Accept: "application/json",
-    Authorization: "Basic " + auth
+    //Authorization: "Basic " + auth
   }
 }
 ////////////////////////////////////////////////////////////////////////
